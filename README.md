@@ -5,7 +5,7 @@ As an undergraduate statistics student, I am deeply passionate about data analyt
 - 🔭 I’m currently studying at <a href="https://www.its.ac.id/">Institut Teknologi Sepuluh Nopember
 - 🌱 I’m currently learning about AI and Machine Learning
 - 📫 How to reach me: galihfitriatmo2611@gmail.com
-- ⚡ Fun fact: I enjoy monologing :'
+- ⚡ Fun fact: I am enjoy monologing :'
   
 ### Github Statistic
 <p align="left">
