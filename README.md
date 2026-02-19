@@ -10,8 +10,8 @@ As an undergraduate statistics student, I am deeply passionate about data analyt
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/GalihFt">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GalihFt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GalihFt&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GalihFt&show_icons=true&theme=algolia&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalihFt&layout=compact&langs_count=8&theme=algolia&cache_seconds=1800"/>
 </a>
 </p>
 
